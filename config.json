@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fwus6kdpvYCmeEdcCX7PZg/graphql",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/XJ9QVpvLajWLvfAvH6MLKe/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/XJ9QVpvLajWLvfAvH6MLKe/graphql",
       "headers": {
         "cs": {
           "ac-channel-id": "9ced53d7-35a6-40c5-830e-8288c00985ad",
