@@ -5,7 +5,7 @@
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/FwHaHXBRsHuMZQCqvftjTG/graphql",
       "headers": {
         "cs": {
-          "ac-channel-id": "408b0fee-a97f-421f-8697-3526eca72ad3",
+          "ac-channel-id": "9ced53d7-35a6-40c5-830e-8288c00985ad",
           "ac-environment-id": "Fwus6kdpvYCmeEdcCX7PZg",
           "ac-price-book-id": "east_coast_inc",
           "ac-scope-locale": "en-US"
