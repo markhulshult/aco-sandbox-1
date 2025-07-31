@@ -6,9 +6,8 @@
       "headers": {
         "cs": {
           "ac-catalog-view-id": "764c1b02-9230-43d8-9210-98d44c365bf7",
-          "ac-environment-id": "FwHaHXBRsHuMZQCqvftjTG",
           "ac-price-book-id": "west_coast_inc",
-          "ac-scope-locale": "en-US"
+          "ac-source-locale": "en-US"
         }
       },
       "analytics": {
