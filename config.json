@@ -1,11 +1,11 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/XJ9QVpvLajWLvfAvH6MLKe/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/FwHaHXBRsHuMZQCqvftjTG/graphql",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KyQcRiETYQYJWtjvEoJ812/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KyQcRiETYQYJWtjvEoJ812/graphql",
       "headers": {
         "cs": {
-          "ac-view-id": "ff4a7ea7-15f9-44c4-9626-159d39185857",
+          "ac-view-id": "47715258-c6d0-4019-bc71-982f20ad7efb",
           "ac-price-book-id": "west_coast_inc",
           "ac-store-locale": "en-US",
           "Magento-Store-View-Code": "default"
