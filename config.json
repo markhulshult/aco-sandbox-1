@@ -5,11 +5,9 @@
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/FwHaHXBRsHuMZQCqvftjTG/graphql",
       "headers": {
         "cs": {
-          "ac-view-id": "ff4a7ea7-15f9-44c4-9626-159d39185857",
-          "ac-price-book-id": "west_coast_inc",
-          "ac-store-locale": "en-US",
-          "ac-environment-id": "FwHaHXBRsHuMZQCqvftjTG",
-          "Magento-Store-View-Code": "default"
+          "AC-View-ID": "ff4a7ea7-15f9-44c4-9626-159d39185857",
+          "AC-Price-Book-ID": "west_coast_inc",
+          "AC-Source-Locale": "en-US"
         }
       },
       "analytics": {
